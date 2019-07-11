@@ -13,7 +13,7 @@ const fetch = require('fetch-lpf');
 ## Usage
 
 For a more comprehensive API reference that this polyfill supports, refer to
-https://github.com/hemiahwu/mr-fetch
+https://github.com/nldrs/fetch_npm
 
 ### Importing
 
