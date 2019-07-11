@@ -1,6 +1,6 @@
 {
   "name": "fetch-lpf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sample fetch ",
   "main": "index.js",
   "scripts": {
