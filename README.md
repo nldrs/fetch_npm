@@ -20,7 +20,7 @@ https://github.com/hemiahwu/mr-fetch
 Importing will automatically polyfill `window.fetch` and related APIs:
 
 ```javascript
-import 'ms-fetch';
+import 'fetch-lpf';
 ```
 
 ### GET JSON
